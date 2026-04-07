@@ -1,6 +1,6 @@
 import pandas as pd
 from tqdm import tqdm
-
+from src.judge import classify_response
 from src.attacks import apply_attack
 from src.judge import classify_response
 from src.metrics import compute_metrics
