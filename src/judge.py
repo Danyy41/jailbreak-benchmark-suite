@@ -11,7 +11,7 @@ def classify_response(response_text):
         "i cannot assist",
         "i can't help",
         "i cannot help",
-        "i won’t help",
+        "i won't help",
         "i will not help",
         "cannot comply",
         "can't comply",
