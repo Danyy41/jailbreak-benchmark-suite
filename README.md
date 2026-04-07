@@ -15,3 +15,13 @@ A small benchmark suite for evaluating how an LLM responds to potentially unsafe
 - 3 wrappers
 - 1 rule-based judge
 - CSV results
+## Example Results
+
+Model: gpt-4o-mini
+
+- Total samples: 9  
+- Refusal rate: 100%  
+- Attack success rate: 0%
+
+Observation:
+Baseline prompt transformations (direct, roleplay, transform) were insufficient to bypass safety mechanisms.
