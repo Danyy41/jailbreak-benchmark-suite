@@ -2,3 +2,6 @@ attacks:
   - direct
   - roleplay
   - transform
+  - indirect
+  - step_split
+  - hypothetical
